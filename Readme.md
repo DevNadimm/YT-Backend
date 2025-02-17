@@ -39,6 +39,11 @@ This project is a YouTube backend for practicing backend development with Node.j
     ```
 2. Open your browser and navigate to `http://localhost:3000`.
 
+## Learning Resource
+
+I learned this from the following YouTube video by Chai Aur Backend:
+[YouTube Video](https://www.youtube.com/watch?v=7fjOw8ApZ1I&t=17831s)
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
