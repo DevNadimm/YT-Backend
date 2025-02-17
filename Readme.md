@@ -20,7 +20,7 @@ This project is a YouTube backend for practicing backend development with Node.j
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/YT-Backend.git
+    git clone https://github.com/DevNadimm/YT-Backend.git
     ```
 2. Navigate to the project directory:
     ```bash
